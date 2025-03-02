@@ -1,2 +1,3 @@
 # AI-Virtual-mouse
 It aims to create a system that replaces traditional input devices, such as a mouse or touchpad, with hand gestures. This project uses machine learning (ML) models, computer vision, and real-time hand tracking to interpret human hand gestures and control the cursor on a computer screen.
+The system will detect and interpret hand movements (such as pointing, dragging, and clicking) and translate them into actions that are typically performed by a mouse. It can be used for a variety of applications, including accessibility tools for users with disabilities, touchless interfaces in public spaces, and gesture-controlled devices in smart homes.
